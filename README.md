@@ -1,1 +1,1 @@
-reade me!
+read me!
