@@ -14,7 +14,7 @@ public class FizzBuzzTest {
         // WHEN - ACT (A)
         String result = fizz.convert(input);
 
-        // THEN - ASSERT (A) 
+        // THEN - ASSERT (A)
         String expected = "FIZZBUZZ";
         Assertions.assertThat(result).isEqualTo(expected);
         //Assert.assertEquals(expected, result);
